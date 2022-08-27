@@ -1,6 +1,10 @@
-### Hi there 👋 Hi, I'm shajad
+### Hi there 👋 I'm shajad
 
 - 🔭 I’m currently working on React js
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=17&duration=6000&pause=1000&color=20F700&center=true&width=439&lines=Skills+%3A+HTML+CSS+JavaScript+Reactjs+Nextjs)](https://git.io/typing-svg)
+
+- 📫 How to reach me: Reach on email address [shajadsheikh32@gmail.com](mailto:shajadsheikh32@gmail.com)
 
 <!--
 **itsshajad/itsshajad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
