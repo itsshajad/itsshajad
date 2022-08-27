@@ -4,11 +4,13 @@
 
 ...About me coming soon
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1EA6F7&width=600&lines=Skills%3A+HTML+CSS+JavaScript+ReactJs+NextJs+MaterialUI+TailwindCSS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1EA6F7&width=650&lines=Skills%3A+HTML+CSS+JavaScript+ReactJs+NextJs+MaterialUI+TailwindCSS)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on React js
 
 - 🌱 I’m currently learning: Programming 
+
+- I'm open to collaborate on ReactJs NextJs based project
 
 - 📫 How to reach me: Reach on [Email](mailto:shajadsheikh32@gmail.com "shajadsheikh32@gmail.com") and on [Linkedin](https://www.linkedin.com/in/shajad-sheikh-17445415a/) 
 
