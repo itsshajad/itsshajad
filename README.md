@@ -4,7 +4,7 @@
 
 ...About me coming soon
 
-[![Typing SVG]([![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=17&duration=6000&pause=1000&color=20F700&center=true&width=439&lines=Skills+%3A+HTML+CSS+JavaScript+Reactjs+Nextjs+Material+UI+TailwindCSS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1EA6F7&width=435&lines=Skills%3A+HTML+CSS+JavaScript+ReactJs+NextJs+MaterialUI+TailwindCSS)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on React js
 
