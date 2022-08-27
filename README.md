@@ -12,7 +12,7 @@
 
 - I'm open to collaborate on ReactJs NextJs based project
 
-- 📫 How to reach me: Reach on [Email](mailto:shajadsheikh32@gmail.com "shajadsheikh32@gmail.com") and on [Linkedin](https://www.linkedin.com/in/shajad-sheikh-17445415a/) 
+- 📫 Reach me on [Email](mailto:shajadsheikh32@gmail.com "shajadsheikh32@gmail.com") and on [Linkedin](https://www.linkedin.com/in/shajad-sheikh-17445415a/) 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsshajad&theme=react)](https://git.io/streak-stats)
 
