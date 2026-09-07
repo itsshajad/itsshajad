@@ -1,15 +1,20 @@
-### Hi there 👋 I'm Shajad Sheikh  
+### Hi there 👋 I'm Shajad Sheikh
 
-## About Me  
+## About Me
+I am a **Senior Frontend Engineer** with **6+ years of experience** building high-performance, scalable web applications. I specialize in **React.js, Next.js, TypeScript**, and UI/UX optimization, ensuring seamless user experiences and efficient development workflows. As a founding engineer at a **Y Combinator–backed startup**, I helped scale the user base from 0 to 50K+ and the engineering team from 4 to 180+.
 
-I am a **Senior Frontend Engineer** with **5 years of experience** in building high-performance, scalable web applications. I specialize in **React.js, Next.js, TypeScript, and UI/UX optimization**, ensuring seamless user experiences and efficient development workflows.  
+## 🚀 What I Do Best
+✅ **Frontend Development** – Expert in building dynamic and responsive web applications using React.js, Next.js, Material-UI, Styled Components, Tailwind CSS.
 
-### 🚀 What I Do Best  
-✅ **Frontend Development** – Expert in building dynamic and responsive web applications using **React.js, Next.js, Material-UI, Styled Components**.  
-✅ **Performance Optimization** – Boost website speed with **SEO best practices, lazy loading, and code splitting**.  
-✅ **Design Systems & UI/UX** – Developed **scalable component libraries** to enhance UI consistency and development efficiency.  
-✅ **LMS & Dashboard Development** – Built **feature-rich LMS, Mentor Management, CRM dashboards, and CMS** for enterprise-level applications.  
-✅ **Backend & Tools** – Skilled in **Node.js, MongoDB, AWS, and Linux commands** for full-stack development.  
+✅ **Performance Optimization** – Boost website speed with SEO best practices, lazy loading, code splitting, and memoization.
+
+✅ **Design Systems & UI/UX** – Developed scalable component libraries to enhance UI consistency and development efficiency.
+
+✅ **LMS, CRM & Dashboard Development** – Built feature-rich LMS, Mentor Management, CRM dashboards, and CMS for enterprise-level applications.
+
+✅ **AI-Integrated Frontends** – Built offline-first AI chatbot experiences using local LLMs, Web Workers, and Next.js.
+
+✅ **Backend & Tools** – Skilled in Node.js, MongoDB, AWS, and Linux commands for full-stack development.
 
 <br />
 
@@ -19,21 +24,26 @@ I am a **Senior Frontend Engineer** with **5 years of experience** in building h
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=5000&width=844&height=25&lines=Performance+Optimization%3A+SEO%2C+Code+Splitting%2C+Lazy+Loading%2C+Webpack)](https://git.io/typing-svg)  
 
-### 🔥 Recent Work & Achievements  
-- **Website Revamp & Migration** – Led migration from PHP to **React.js**, reducing load times by **35%** and increasing user engagement by **20%**.  
-- **LMS Development** – Built multiple versions of **LMS Dashboards** with **live sessions, task submissions, assignments, quizzes, and leaderboards**.  
-- **Mentor Management System** – Developed a **mentor dashboard** for streamlined **query resolution, task approvals, and assignment reviews**.  
-- **Design System** – Created a **scalable UI component library** hosted on **NPM**, reducing frontend development time by **30%**.  
-- **CRM & Sales Dashboard** – Built a **hierarchical CRM sales dashboard** tracking **revenue, deal stages, and performance metrics**.  
-- **CMS for Course Management** – Built a **Node tree-based CMS**, improving **data accuracy and reducing operational inefficiencies**.  
+## 🔥 Recent Work & Achievements
 
-### 📌 Key Skills  
-- **Frontend**: React.js, Next.js, TypeScript, JavaScript, Material-UI, Styled Components, Redux Toolkit  
-- **Backend & Tools**: Node.js, MongoDB, AWS, Git, Linux Commands  
-- **Performance Optimization**: SEO, Code Splitting, Lazy Loading, Webpack  
+- **Offline-First AI Chatbot** – Built an offline-first AI chatbot at Solo Tech using Next.js, Ollama, Web Workers, and Hugging Face APIs, running local LLMs like DeepSeek-R1 fully in-browser with a 40% reduction in latency and sub-200ms response times.
+- **Website Revamp & Migration** – Led the frontend rebuild during Novatr's brand transition from Oneistox, and migrated legacy PHP interfaces to React.js/Next.js, reducing load times by 35% and improving lead conversion by 22%.
+- **LMS Development** – Built multiple versions of LMS/MMS dashboards used by 15K+ learners, with live sessions, task submissions, assignments, quizzes, and mentor workflows.
+- **Order Management System** – Built the frontend for an OMS handling course purchases, multi-currency checkout, and automated payment reconciliation.
+- **Lead Management & Refer-and-Earn** – Architected the Lead Management System UI centralizing the sales pipeline, and built a Refer & Earn portal with referral tracking and payout status displays.
+- **Design System** – Launched a private design system (inspired by Razorpay's Blade), adopted by 10+ internal teams, reducing UI bug reports by 30%.
+- **CRM & Sales Dashboard** – Built a hierarchical CRM sales dashboard with Stripe billing, role-based access, and analytics via Chart.js/PrimeReact.
+- **CMS for Course Management** – Built a node-tree-based CMS, improving data accuracy and reducing operational inefficiencies.
 
-### 💌 Connect With Me  
-📩 Email: [shajadsheikh32@gmail.com](mailto:shajadsheikh32@gmail.com)  
-💾 LinkedIn: [Shajad Sheikh](https://www.linkedin.com/in/md-s-17445415a/)  
-🌍 Portfolio: [Novatr](https://novatr.com)  
-💻 GitHub: [itsshajad](https://github.com/itsshajad)  
+## 📌 Key Skills
+
+- **Frontend:** React.js, Next.js, TypeScript, JavaScript, Redux Toolkit, Tailwind CSS, Styled Components, Material-UI, PrimeReact
+- **Performance & SEO:** Code Splitting, Lazy Loading, Lighthouse, Memoization, WebP, Web Workers, PWA
+- **AI/LLM Integration:** Ollama, Hugging Face, DeepSeek-R1
+- **Backend & Tools:** Node.js, MongoDB, AWS, Git, GitHub, Vercel, Webpack, Babel, Postman, Three.js, CI/CD
+
+## 💌 Connect With Me
+📩 **Email:** [shajadsheikh32@gmail.com](mailto:shajadsheikh32@gmail.com)
+💾 **LinkedIn:** [Shajad Sheikh](https://www.linkedin.com/in/shajad-sheikh-sde3/)
+💻 **GitHub:** [itsshajad](https://github.com/itsshajad)
+
